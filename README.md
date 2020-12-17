@@ -4,7 +4,7 @@
 
 以下を開くとGitpodが立ち上がる．
 
-- <https://gitpod.io/#https://github.com/tamura70/gitpod-test>
+- <https://gitpod.io/#https://github.com/yoshihirob/mygitpod-test>
 
 以下のような特徴がある．
 
